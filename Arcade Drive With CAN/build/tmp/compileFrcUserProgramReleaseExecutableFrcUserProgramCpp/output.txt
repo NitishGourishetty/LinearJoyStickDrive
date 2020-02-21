@@ -1,0 +1,4 @@
+See file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.

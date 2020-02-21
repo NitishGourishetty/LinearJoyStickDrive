@@ -1,0 +1,408 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2020\\roborio\\bin\\arm-frc2020-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2020\\roborio\\bin\\arm-frc2020-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\11e5a7ac5e588068c9433e5237ca4082\\wpilibc-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\e3794e46f02d6e2a73a60ed96876ddde\\ntcore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\daa19cd5b5b74e0428daa89e258b1c86\\hal-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\58355982759707801755810729c0914e\\wpiutil-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c377ab5a7c14c2e19e4cd5d2ae6259fc\\cameraserver-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\72a97759d8f64567ca9b158fd83679a6\\cscore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\8eb445debdae2e89f75ae1c044925f23\\opencv-cpp-3.4.7-2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c14afdd189ab9c1b1c92e9a22342d8e8\\wpilibNewCommands-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\d27df3e5a5f5995b3e471af8aa7b99ff\\wpilibOldCommands-cpp-2020.1.2-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\11e5a7ac5e588068c9433e5237ca4082\\wpilibc-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\e3794e46f02d6e2a73a60ed96876ddde\\ntcore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\daa19cd5b5b74e0428daa89e258b1c86\\hal-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\58355982759707801755810729c0914e\\wpiutil-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c377ab5a7c14c2e19e4cd5d2ae6259fc\\cameraserver-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\72a97759d8f64567ca9b158fd83679a6\\cscore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\8eb445debdae2e89f75ae1c044925f23\\opencv-cpp-3.4.7-2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c14afdd189ab9c1b1c92e9a22342d8e8\\wpilibNewCommands-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\d27df3e5a5f5995b3e471af8aa7b99ff\\wpilibOldCommands-cpp-2020.1.2-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-g",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-Og"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+          "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-g",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-g",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2020\\roborio\\bin\\arm-frc2020-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2020\\roborio\\bin\\arm-frc2020-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\11e5a7ac5e588068c9433e5237ca4082\\wpilibc-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\e3794e46f02d6e2a73a60ed96876ddde\\ntcore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\daa19cd5b5b74e0428daa89e258b1c86\\hal-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\58355982759707801755810729c0914e\\wpiutil-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c377ab5a7c14c2e19e4cd5d2ae6259fc\\cameraserver-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\72a97759d8f64567ca9b158fd83679a6\\cscore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\8eb445debdae2e89f75ae1c044925f23\\opencv-cpp-3.4.7-2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c14afdd189ab9c1b1c92e9a22342d8e8\\wpilibNewCommands-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\d27df3e5a5f5995b3e471af8aa7b99ff\\wpilibOldCommands-cpp-2020.1.2-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\11e5a7ac5e588068c9433e5237ca4082\\wpilibc-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\e3794e46f02d6e2a73a60ed96876ddde\\ntcore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\daa19cd5b5b74e0428daa89e258b1c86\\hal-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\58355982759707801755810729c0914e\\wpiutil-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c377ab5a7c14c2e19e4cd5d2ae6259fc\\cameraserver-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\72a97759d8f64567ca9b158fd83679a6\\cscore-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\8eb445debdae2e89f75ae1c044925f23\\opencv-cpp-3.4.7-2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c14afdd189ab9c1b1c92e9a22342d8e8\\wpilibNewCommands-cpp-2020.1.2-sources\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\d27df3e5a5f5995b3e471af8aa7b99ff\\wpilibOldCommands-cpp-2020.1.2-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+      "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-g",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5d03791d993a2fc8c42f96bf406f196f\\wpilibc-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\090e548fde87bd91dd7a55b104f98e3a\\ntcore-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\0acd3de3011a052152eaf5babaa71fea\\hal-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\20fd5f940d3e946a6323f9aaaa2f8249\\wpiutil-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\984fad6f9977f064d61d8dc499b9e4d3\\chipobject-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\3824f8a9bfa5f777260eceb054b5f1f6\\netcomm-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\5c07e26e0296442fbcb1577ce21f2343\\visa-2020.10.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\92c7de324f4491be177a14e9d90eb304\\cameraserver-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\1cc5970e3ace14dc6e471f6538e82205\\cscore-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\300ef5e8f9acb879865422c17cf104c5\\opencv-cpp-3.4.7-2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\88c154a613686bc84ce77f8a427027ab\\SparkMax-cpp-1.5.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\c1877c6f3c644a0cfce9882ec740a130\\SparkMax-driver-1.5.1-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\7985d848ca33541c139cd482934b6e2f\\wpilibNewCommands-cpp-2020.1.2-headers\\",
+          "C:\\Users\\rajay\\.gradle\\caches\\transforms-2\\files-2.1\\ec554211a7882fa17b265dc3d1d7e764\\wpilibOldCommands-cpp-2020.1.2-headers\\",
+          "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-g",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\Public\\wpilib\\2020\\NitishWorkingMotorTests\\SPARK-MAX-Examples-master\\C++\\Arcade Drive With CAN\\src\\main\\include\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-g",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]

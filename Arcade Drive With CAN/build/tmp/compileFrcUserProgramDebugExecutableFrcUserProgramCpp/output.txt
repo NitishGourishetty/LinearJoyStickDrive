@@ -1,0 +1,23 @@
+See file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp failed.
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:50:101: error: no matching function for call to 'frc::DifferentialDrive::DifferentialDrive(rev::CANSparkMax*&, rev::CANSparkMax*&)'
+   frc::DifferentialDrive m_robotDrive = new frc::DifferentialDrive(m_leftLeadMotor, m_rightLeadMotor);
+                                                                                                     ^
+In file included from C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:10:0:
+C:\Users\rajay\.gradle\caches\transforms-2\files-2.1\5d03791d993a2fc8c42f96bf406f196f\wpilibc-cpp-2020.1.2-headers/frc/drive/DifferentialDrive.h:118:3: note: candidate: frc::DifferentialDrive::DifferentialDrive(frc::DifferentialDrive&&)
+   DifferentialDrive(DifferentialDrive&&) = default;
+   ^~~~~~~~~~~~~~~~~
+C:\Users\rajay\.gradle\caches\transforms-2\files-2.1\5d03791d993a2fc8c42f96bf406f196f\wpilibc-cpp-2020.1.2-headers/frc/drive/DifferentialDrive.h:118:3: note:   candidate expects 1 argument, 2 provided
+C:\Users\rajay\.gradle\caches\transforms-2\files-2.1\5d03791d993a2fc8c42f96bf406f196f\wpilibc-cpp-2020.1.2-headers/frc/drive/DifferentialDrive.h:114:3: note: candidate: frc::DifferentialDrive::DifferentialDrive(frc::SpeedController&, frc::SpeedController&)
+   DifferentialDrive(SpeedController& leftMotor, SpeedController& rightMotor);
+   ^~~~~~~~~~~~~~~~~
+C:\Users\rajay\.gradle\caches\transforms-2\files-2.1\5d03791d993a2fc8c42f96bf406f196f\wpilibc-cpp-2020.1.2-headers/frc/drive/DifferentialDrive.h:114:3: note:   no known conversion for argument 1 from 'rev::CANSparkMax*' to 'frc::SpeedController&'
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:112:12: warning: unused variable 'leftMotorOutput' [-Wunused-variable]
+     double leftMotorOutput = coefficient * squareX;
+            ^~~~~~~~~~~~~~~
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:113:12: warning: unused variable 'rightMotorOutput' [-Wunused-variable]
+     double rightMotorOutput = coefficient * squareY;
+            ^~~~~~~~~~~~~~~~
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
